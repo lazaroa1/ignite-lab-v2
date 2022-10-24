@@ -22,20 +22,20 @@ export default function pages() {
   );
 
   async function handleSubscribe(event: FormEvent) {
-    event.preventDefault();
-
+    // event.preventDefault();
+    /*
     await createSubscriber({
       variables: {
         name,
         email,
       },
     });
-
+    */
     navigate("/event");
   }
 
   return (
-    <div className="min-h-screen bg-blur bg-blur bg-cover bg-no-repeat flex flex-col items-center">
+    <div className="min-h-screen bg-blur bg-cover bg-no-repeat flex flex-col items-center">
       <div className="w-full max-w-[1100px] flex items-center justify-between mt-20 mx-auto">
         <div className="max-w-[640px]">
           <Logo />
