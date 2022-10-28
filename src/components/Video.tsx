@@ -47,7 +47,6 @@ export default function Video(props: VideoProps) {
       slug: props?.lessonSlug,
     },
   });
-  console.log(data);
 
   if (!data) {
     return (
@@ -56,6 +55,7 @@ export default function Video(props: VideoProps) {
       </div>
     );
   }
+
   return (
     <div className="flex-1">
       <div className="bg-black flex juustify-center">
