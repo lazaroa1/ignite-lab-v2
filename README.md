@@ -10,7 +10,7 @@ Table Contents
  <a href="#project-view">Project view</a> •
  <a href="#links-used">Links used</a> •
  <a href="#ltools-used">Tools used</a> • 
- <a href="#library-installation-commands">Library installation commands</a> • 
+ <a href="#library-installation-commands">Library installation commands</a>
 </p>
 
 Project view
