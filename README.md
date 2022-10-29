@@ -22,8 +22,23 @@ Project view
 
 Links used
 =================
-[Data storage](https://app.hygraph.com/);
-[GraphQL code generator](https://www.the-guild.dev/graphql/codegen);
-[Project deploy](https://vercel.com/)
+- [Data storage](https://app.hygraph.com/);
+- [GraphQL code generator](https://www.the-guild.dev/graphql/codegen);
+- [Project deploy](https://vercel.com/);
 
+Library installation commands
+================
+```npm create vite@latest
+npm i tailwindcss postcss autoprefixer -D
+npx tailwindcss init -p
+npm i @apollo/client graphql
+npm i date-fns
+npm i @vime/core @vime/react
+npm i react-router-dom
+npm i classnames
+npm i @graphql-codegen/typescript-react-apollo
+npm i @graphql-codegen/typescript-operations
+npm i @graphql-codegen/typescript
+npm i @graphql-codegen/cli
+npm run codegen```
 
