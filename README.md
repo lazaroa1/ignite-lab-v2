@@ -1,6 +1,6 @@
 <h1 align="center">Ignite Lab V2</h1>
 
-Project used in the bootcamp made by [@rocketseat](https://github.com/Rocketseat), where i had the opportunity to use new tools and reinforce the knowledge i already had.
+Project used in the bootcamp made by [@Rocketseat](https://github.com/Rocketseat), where i had the opportunity to use new tools and reinforce the knowledge i already had.
 The project is a teaching tool, where the student can see the classes and the teacher.
 
 
