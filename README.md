@@ -44,7 +44,8 @@ Tools used
 
 Library installation commands
 ================
-```npm create vite@latest
+```
+npm create vite@latest
 npm i tailwindcss postcss autoprefixer -D
 npx tailwindcss init -p
 npm i @apollo/client graphql
@@ -56,5 +57,6 @@ npm i @graphql-codegen/typescript-react-apollo
 npm i @graphql-codegen/typescript-operations
 npm i @graphql-codegen/typescript
 npm i @graphql-codegen/cli
-npm run codegen```
+npm run codegen
+```
 
